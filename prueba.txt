@@ -5,7 +5,7 @@
 
 def main():
 nombre= input("Cual es tu nombre?")   
-print("hola mundo")
+print("hola" nombre "Bienvenido a Git")
 
 if _name_ == "_main_":
 main() 
