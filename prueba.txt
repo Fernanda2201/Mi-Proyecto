@@ -4,7 +4,8 @@
 #Version: 1.0.0
 
 def main():
-   print("hola mundo")
+nombre= input("Cual es tu nombre?")   
+print("hola mundo")
 
 if _name_ == "_main_":
 main() 
