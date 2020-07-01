@@ -1,0 +1,10 @@
+#Script de prueba para Git
+#Autor:Fernanda Guaraca
+#Fecha:01-07-2020
+#Version: 1.0.0
+
+def main():
+   print("hola mundo")
+
+if _name_ == "_main_":
+main() 
